@@ -1,5 +1,5 @@
-a=input()
-if(a=="Sunday" or a=="Saturday"):
+d=input()
+if(d=="Sunday" or d=="Saturday"):
   printf("yes")
 else:
   print("no")
