@@ -1,5 +1,5 @@
 d=input()
 if(d=="Sunday" or d=="Saturday"):
-  printf("yes")
+  print("yes")
 else:
   print("no")
